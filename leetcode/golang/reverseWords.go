@@ -1,4 +1,4 @@
-package reverseWords
+package leetcode
 
 func reverseWords(s string) string {
 	var arr []string
